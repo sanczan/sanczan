@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sławomir</h1>
 <h3 align="center">A passionate student trying to master unreal</h3>
 
-- 🔭 I’m currently studying at the **Silesian University of Technology**
+- 🔭 I’m studying at the **Silesian University of Technology**
 
 - 🌱 I’m currently learning **Unreal Engine**
 
