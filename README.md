@@ -25,7 +25,10 @@
 
 ###
 
-<h2>🐍 A very hungry snake trying to eat my hard work -_- 🐍</h2>
-<img src="https://raw.githubusercontent.com/sanczan/sanczan/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
