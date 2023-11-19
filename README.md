@@ -25,7 +25,12 @@
 
 ###
 
-<h2>🐍 A very hungry snake trying to eat my hard work -_- 🐍</h2>
-<img src="https://raw.githubusercontent.com/sanczan/sanczan/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BialySztorm/BialySztorm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BialySztorm/BialySztorm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BialySztorm/BialySztorm/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
