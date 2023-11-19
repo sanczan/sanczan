@@ -26,6 +26,6 @@
 ###
 
 <h2>🐍 A very hungry snake trying to eat my hard work -_- 🐍</h2>
-<img src="https://raw.githubusercontent.com/sanczan/sanczan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sanczan/sanczan/output/snake.svg" alt="Snake animation" />
 
 ###
