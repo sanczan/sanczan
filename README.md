@@ -24,7 +24,7 @@
 ![1st_scene](https://github.com/sanczan/sanczan/assets/97993763/c61b4be6-91cc-46b1-9bf9-bafaf95d9a83)
 
 ###
-
+<h2>🐍 A very hungry snake trying to eat my hard work -_- 🐍</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanczan/sanczan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanczan/sanczan/output/github-contribution-grid-snake.svg">
