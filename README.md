@@ -17,7 +17,7 @@
 
 
 ###
-<h1>Scene that I've made in Unreal Engine:</h1>
+<h1>Scene I've made in Unreal Engine:</h1>
 
 ![1st_scene](https://github.com/sanczan/sanczan/assets/97993763/c61b4be6-91cc-46b1-9bf9-bafaf95d9a83)
 
